@@ -1,4 +1,3 @@
-"""
 LLM Workshop Setup Instructions
 
 This workshop requires Python 3.10+ and the following setup:
@@ -29,4 +28,3 @@ TROUBLESHOOTING:
 - If "Import ollama could not be resolved" error appears, the package isn't installed
 - If Ollama service isn't running, start it with: ollama serve
 - All code includes fallback modes that work without external dependencies
-"""
